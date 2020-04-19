@@ -1,0 +1,9 @@
+# Do not track these folders:
+misc/
+NewFolder/
+
+# Compiled source #
+###################
+*.exe
+*.dll
+*.bin
