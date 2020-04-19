@@ -4,6 +4,7 @@
 
 int main()
 {
+	std::cout << "How do we commit a file?" << endl;
 	return 0;
 }
 
