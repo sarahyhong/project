@@ -1,4 +1,7 @@
-On branch master
-Your branch is up to date with 'origin/master'.
+# ignore .exe, .dll, and .bin files
+*.exe
+*.dll
+*.bin
 
-nothing to commit, working tree clean
+# ignore this file
+ignored_file.txt
