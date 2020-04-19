@@ -3,6 +3,7 @@
 #include <iostream>
 #include <cmath>
 #include <vector>
+#include <string>
 
 int main()
 {
@@ -20,6 +21,14 @@ int main()
 	vector<int> v;
 	v.push_back(x);
 	v.push_back(y);
+
+	std::cout << "So this is our master branch.";
+	std::cout << "Now we can try to do some string concatenation.";
+
+	std::string s = "Hi";
+	std::string h = "... How are you?";
+
+	std::string sh = s+h;
 
 	return 0;
 }

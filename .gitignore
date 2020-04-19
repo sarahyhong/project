@@ -1,0 +1,8 @@
+# ignore .exe, .dll, and .bin files
+*.exe
+*.dll
+*.bin
+
+# ignore this file
+ignored_file.txt
+yet_another_ignored_file.txt
