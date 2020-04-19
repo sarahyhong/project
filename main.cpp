@@ -15,6 +15,11 @@ int main()
 
 	x = x + 5; 
 	y = y + x;
+	
+	std::cout << "Okay, that was cool. Now maybe we can use the vector library for something." << endl;
+	vector<int> v;
+	v.push_back(x);
+	v.push_back(y);
 
 	return 0;
 }
