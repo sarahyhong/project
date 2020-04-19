@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "This is a conflict!";
+	std::cout << "This is a conflict!!!";
 	return 0;
 }
